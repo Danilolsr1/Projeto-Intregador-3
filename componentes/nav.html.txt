@@ -1,0 +1,13 @@
+<!-- NAV: Menu de navegação reutilizável -->
+<nav>
+  <ul class="menu">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="sobre.html">Sobre</a></li>
+    <li><a href="#">Tabloide</a></li>
+    <li><a href="#">Ofertas</a></li>
+    <li class="logo"><img src="img/logo tatico.jpg" alt="Tatico"></li>
+    <li><a href="contato.html">Contato</a></li>
+    <li><a href="#">Lojas</a></li>
+    <li><a href="#">🕪 Atendimento</a></li>
+  </ul>
+</nav>
